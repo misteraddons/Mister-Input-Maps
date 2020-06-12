@@ -13,6 +13,14 @@
  OK: Microsoft = A, Nintendo = A, Playstation = X
  Back: Microsoft = B, Nintendo = B, Playstation = O
 ```
+# Arcade Button Mapping
+```
+4 5 6    Y X L
+1 2 3    B A R 
+
+Coin = Select
+Start = Start
+```
 
 # Limitations
  Several 8BitDo controllers share the same vendor ID and part ID (VID:PID = 045e:028e)
