@@ -11,6 +11,7 @@
 ```
  Menu/OSD: Down + Select (Down + Start for Sega controllers)
  OK: Microsoft = A, Nintendo = A, Playstation = X
+	This needs testing as it may not work for 8BitDo controllers that emulate PS/Xbox controllers
  Back: Microsoft = B, Nintendo = B, Playstation = O
 ```
 # Arcade Button Mapping
@@ -18,8 +19,9 @@
 4 5 6    Y X L
 1 2 3    B A R 
 
-Coin = Select
+Credit = Select
 Start = Start
+Menu/OSD = Home/PS/Guide or Down + Credit
 ```
 
 # Limitations
