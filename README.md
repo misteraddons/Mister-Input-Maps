@@ -19,9 +19,9 @@
 4 5 6    Y X L
 1 2 3    B A R 
 
-Credit = Select
+Coin = Select
 Start = Start
-Menu/OSD = Home/PS/Guide or Down + Credit
+Menu/OSD = Home/PS/Guide or Down + Start
 ```
 
 # Limitations
