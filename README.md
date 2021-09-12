@@ -9,7 +9,7 @@
 
 # Methodology
 ```
- Menu/OSD: Down + Select (Down + Start for Sega controllers)
+ Menu/OSD: Home button or Down + Start for controllers without home button
  OK: Microsoft = A, Nintendo = A, Playstation = X
 	This needs testing as it may not work for 8BitDo controllers that emulate PS/Xbox controllers
  Back: Microsoft = B, Nintendo = B, Playstation = O
