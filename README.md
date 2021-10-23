@@ -29,8 +29,8 @@ Menu/OSD = Home/PS/Guide or Down + Start
 ```
 Select = Coin
 Start = Start
-Pause = L2
-Start 2P Game (this is choosing 1P or 2P game, NOT 2P start) = R2
+Pause = L/L2 (or not mapped if controller is out of buttons)
+Start 2P Game (this is choosing 1P or 2P game, NOT 2P start) = R/R2 (none of these games use more than 2 buttons)
 Notes: 
 1) Controllers with fewer than 8 buttons may have Pause and Start 2P Game mapped to L1 and R1
 2) Start 2P Game is NOT 2P Start. It's meant for older arcade games that had 1 set of controls but allowed for alternating 2 player gameplay. Don't get it twisted.
@@ -39,16 +39,16 @@ Left analog stick is mapped to left dpad so either can be used in any game
 Right analog stick is mapped for twin stick shooters
 
 1 button games:
-4 button        6 button
-   -            -   -   -
--     -
-   1            1   -   -
+<=3 button        4 button        6 button
+                     -            -   -   -
+                  -     -
+1   -   -            1            1   -   -
 
 2/3 button games:
-4 button        6 button
-   -            -   -   -
-1     3
-   2            1   2   3
+<=3 button        4 button        6 button
+                     -            -   -   -
+                  1     3
+1   2   3            2            1   2   3
 
 
 4 button games:
@@ -59,12 +59,12 @@ Right analog stick is mapped for twin stick shooters
 
 
 6 button games:
-4 button        6 button
-   6 (R2)           
-   3 (R1)           
-   2            1   2   3
-1     5
-   4            4   5   6
+4 button (2 shoulder)       4 button (4 shoulder)       6 button
+                                        6 (R2)                       
+3 (L)  6 (R)                            3 (R1)           
+     2                               2                  1   2   3
+  1     5                         1     5
+     4                               4                  4   5   6
 ```
 
 # Limitations
