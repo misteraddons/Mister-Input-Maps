@@ -39,16 +39,16 @@ Left analog stick is mapped to left dpad so either can be used in any game
 Right analog stick is mapped for twin stick shooters
 
 1 button games:
-4 button        6 button
-   -            -   -   -
--     -
-   1            1   -   -
+<=3 button        4 button        6 button
+                     -            -   -   -
+                  -     -
+1   -   -            1            1   -   -
 
 2/3 button games:
-4 button        6 button
-   -            -   -   -
-1     3
-   2            1   2   3
+<=3 button        4 button        6 button
+                     -            -   -   -
+                  1     3
+1   2   3            2            1   2   3
 
 
 4 button games:
