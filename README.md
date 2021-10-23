@@ -59,12 +59,12 @@ Right analog stick is mapped for twin stick shooters
 
 
 6 button games:
-4 button        6 button
-   6 (R2)           
-   3 (R1)           
-   2            1   2   3
-1     5
-   4            4   5   6
+4 button (2 shoulder)       4 button (4 shoulder)       6 button
+                                        6 (R2)                       
+3 (L)  6 (R)                            3 (R1)           
+     2                               2                    1   2   3
+  1     5                         1     5
+     4                               4                    4   5   6
 ```
 
 # Limitations
