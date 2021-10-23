@@ -29,8 +29,8 @@ Menu/OSD = Home/PS/Guide or Down + Start
 ```
 Select = Coin
 Start = Start
-Pause = L2
-Start 2P Game (this is choosing 1P or 2P game, NOT 2P start) = R2
+Pause = L/L2 (or not mapped if controller is out of buttons)
+Start 2P Game (this is choosing 1P or 2P game, NOT 2P start) = R/R2 (none of these games use more than 2 buttons)
 Notes: 
 1) Controllers with fewer than 8 buttons may have Pause and Start 2P Game mapped to L1 and R1
 2) Start 2P Game is NOT 2P Start. It's meant for older arcade games that had 1 set of controls but allowed for alternating 2 player gameplay. Don't get it twisted.
